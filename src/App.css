@@ -1,0 +1,9 @@
+.container{
+  background-color: rgb(111,250,202);
+  height: 90vh;
+  width: 30vw;
+  margin: auto;
+}
+.list{
+  margin-top: 2vw;
+}
